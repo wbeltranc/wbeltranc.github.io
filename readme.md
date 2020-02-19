@@ -1,4 +1,4 @@
-################################################################################################
+<!-- ################################################################################################
 
 IT Worker for Designer Template by Bootstrap temple - https://bootstraptemple.com
 
@@ -39,7 +39,7 @@ Thank you for downloading!
 
 In case you would need some custom modifications, don't hesitate to get in touch.
 
-ondrique, (ahoj@ondrejsvestka.cz)
+ondrique, (ahoj@ondrejsvestka.cz) -->
 
 ## Credits ##
 
